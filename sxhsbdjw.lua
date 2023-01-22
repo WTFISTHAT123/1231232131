@@ -11,7 +11,7 @@
     local INT_MAX = 2147483647
 
     ACTIVATION_KEY = menu.get_activation_key_hash()
-    if ACTIVATION_KEY == 1257892405 then
+    if ACTIVATION_KEY == 1986217525 then
         util.require_natives("natives-1660775568") 
         util.toast("[ 그타안전대리.com ]\n\n- Developer: 프로젝트#7777\n\nGta5 1.64 / Build 2082")
         util.keep_running()
